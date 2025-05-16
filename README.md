@@ -1,16 +1,4 @@
 # sikerja
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Folder db (OTP Verification)--> C:\xampp\htdocs\db
+- Folder MWSP (database manager)--> C:\xampp\htdocs\MWSP
+- Untuk penjelasan dan tampilannya dapat diakses melalui link: https://utyac-my.sharepoint.com/:b:/g/personal/regita_5220411359_student_uty_ac_id/EaNzgBDW4KJMuGJ8LwuYl0ABuDYoHgQ_4kAMwND7vplQPA?e=h2ovcu
