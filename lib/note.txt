@@ -1,0 +1,11 @@
+CREATE TABLE `accident_reports` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `nik` VARCHAR(16) NOT NULL,
+  `nama` VARCHAR(255) NOT NULL,
+  `date` DATE NOT NULL,
+  `time` TIME NOT NULL,
+  `location` VARCHAR(255) NOT NULL,
+  `description` TEXT NOT NULL,
+  `status` ENUM('Ditunda', 'Ditinjau', 'Diselesaikan') NOT NULL DEFAULT 'Ditunda',
+  PRIMARY KEY (`id`)
+);
